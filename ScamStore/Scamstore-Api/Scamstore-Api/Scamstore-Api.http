@@ -1,0 +1,6 @@
+@Scamstore_Api_HostAddress = http://localhost:5212
+
+GET {{Scamstore_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
